@@ -88,3 +88,11 @@ ul {
 
   justify-content: center;
 }
+
+ul li {
+  transition: .5s;
+}
+
+#socialLinks li:hover {
+  transform: scale(1.5);
+}
